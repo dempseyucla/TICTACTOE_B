@@ -14,6 +14,8 @@ void runGame() {
 
 	printf("\nChoose X or O. O moves first !!\n\n");
 
+	printf("I'm waiting ....\n");
+
 	while(1) {
 		
 		char choice = getchar();
